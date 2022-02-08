@@ -97,10 +97,6 @@
       "announcement-bar-test": {
         "type": "announcement-bar-test",
         "settings": {
-          "show_announcement": true,
-          "home_page_only": true,
-          "text": "Announce something here",
-          "link": ""
         }
       }
     },
